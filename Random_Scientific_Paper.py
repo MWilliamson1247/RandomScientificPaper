@@ -1,4 +1,4 @@
-#Code for openeing random, recent journal article, drawn from Science Daily
+#Code for openeing random, recent scientific journal article, drawn from Science Daily
 
 
     #Step 0: Get proper imports
